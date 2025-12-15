@@ -1,0 +1,5 @@
+{
+  "name": "WebOS Desktop",
+  "description": "A fully functional web-based desktop environment simulator with window management, persistent shortcuts, and customization.",
+  "requestFramePermissions": []
+}
